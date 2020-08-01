@@ -3,9 +3,12 @@ layout: page
 title: Personal Projects
 subtitle:
 ---
-* [**Sequence to Sequence Question Answering**](https://github.com/TanveerMittal/LIGN_167_Final):
-  * Trained sequence to sequence deep learning models on the [SQuAD 2.0 dataset](https://rajpurkar.github.io/SQuAD-explorer/)
-  * Implemented multi-headed self attention with an LSTM, Bidirectional LSTM, LSTM, and RNN models from scratch in Pytorch
+* [**Time Series Modeling of AirBnB Prices in San Diego**](https://github.com/TanveerMittal/Airbnb_Forecasting):
+  * Forecasted the average prices of AirBnB’s in San Diego using SARIMAX and FB Prophet time series models
+  * Created an interface for users to input search criteria for an AirBnB and receive price predictions from the time series model
+* [**Textual Analysis of Chronic Illness Surveys (1st Place Entry for UCSD DataHacks 2020)**](https://github.com/TanveerMittal/DataHacks_2020):
+  * Applied T-Stochastic Neighbor Embeddings, GloVe, and TF-IDF to visualize survey questions in a 2d space using Tableau dashboards
+  * Analyzed the effectiveness of Tobacco laws in the US for restricting underage tobacco sales by performing permutation testing
 * [**Where's Waldo**](https://github.com/TanveerMittal/Wheres_Waldo):
   * Applied a Convolutional Neural Network with the sliding windows detection algorithm to find Waldo
 * [**Microsoft Pet Breed Classification Challenge**](https://github.com/TanveerMittal/DS3_Datathon_2019)(2019 UCSD Datathon Submission):
