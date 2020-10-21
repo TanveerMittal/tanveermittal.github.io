@@ -5,7 +5,7 @@ subtitle:
 ---
 <style>
 h2   {position:"relative";
-    transform: translate(-32.5%, 0px)}
+    transform: translate(-19%, 0px)}
 </style>
 
 <center>
