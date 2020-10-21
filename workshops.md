@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Workshops
-subtitle:
+subtitle: Check out some of the data science workshops I have presented!
 ---
 <style>
 h2   {position:"relative";
-    transform: translate(-19%, 0px)}
+    transform: translate(-18%, 0px)}
 </style>
 
 <center>
