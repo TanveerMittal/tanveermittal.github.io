@@ -5,7 +5,7 @@ subtitle: Check out some of the data science workshops I have presented!
 ---
 <style>
 h2   {position:"relative";
-    transform: translate(-18%, 0px)}
+    transform: translate(-20%, 0px)}
 </style>
 
 <center>
