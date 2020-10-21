@@ -9,6 +9,7 @@ subtitle:
 * [**Textual Analysis of Chronic Illness Surveys**](https://github.com/TanveerMittal/DataHacks_2020)(1st Place Entry for UCSD DataHacks 2020):
   * Applied T-Stochastic Neighbor Embeddings, GloVe, and TF-IDF to visualize survey questions in a 2d space using Tableau dashboards
   * Analyzed the effectiveness of Tobacco laws in the US for restricting underage tobacco sales by performing permutation testing
+  * Group member: [Ayush More](https://waydegg.com/)
 * [**Where's Waldo**](https://github.com/TanveerMittal/Wheres_Waldo):
   * Applied a Convolutional Neural Network with the sliding windows detection algorithm to find Waldo
 * [**Microsoft Pet Breed Classification Challenge**](https://github.com/TanveerMittal/DS3_Datathon_2019)(2019 UCSD Datathon Submission):
