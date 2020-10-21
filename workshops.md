@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Workshops
 subtitle: Check out some of the data science workshops I have presented!
 ---
