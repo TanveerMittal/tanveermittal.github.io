@@ -9,6 +9,16 @@ h2   {position:"relative";
 </style>
 
 <center>
+<h2>• Introduction to Deep Learning</h2>
+<iframe width="960" height="540" src="https://www.youtube.com/embed/NtevtCR38oE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+
+<center>
+<h2>• Machine Learning for Neuroscience</h2>
+<iframe width="960" height="540" src="https://www.youtube.com/embed/rvdR4MRVaYk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+
+<center>
 <h2>• Data Science Interview Workshop</h2>
-<iframe src="https://drive.google.com/file/d/15J0dzn5V3y2M55Pplw1Cwj-3PbiG-GdB/preview" width="960" height="540"></iframe>
+<iframe width="960" height="540" src="https://www.youtube.com/embed/y_39KJzhQlk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
